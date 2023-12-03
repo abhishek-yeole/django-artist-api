@@ -7,7 +7,7 @@
 
 It consists of 2 parts:
 
-1. **Text Extractor :** This functoinality is acheved using EasyOCR and Open CV library.
+1. **Text Extractor :** This functoinality is achieved using EasyOCR and Open CV library.
 2. **Facial Emotion Detector:** This is acheived using HuggingFace Model - _[https://huggingface.co/dima806/facial_emotions_image_detection](https://huggingface.co/dima806/facial_emotions_image_detection)_
 
 ### To run the ML project locally- 
