@@ -4,6 +4,8 @@
 
 - Link - _[https://abhicodes-text-extractor-orm.hf.space](https://abhicodes-text-extractor-orm.hf.space)_
 - Video - _[https://drive.google.com/file/d/1NFTm9hqnpjtzPY_2SOOMViWQA3YIdQPm/view?usp=sharing](https://drive.google.com/file/d/1NFTm9hqnpjtzPY_2SOOMViWQA3YIdQPm/view?usp=sharing)_
+- Model - _[https://huggingface.co/dima806/facial_emotions_image_detection](https://huggingface.co/dima806/facial_emotions_image_detection)_
+- Repo - [https://huggingface.co/spaces/abhicodes/text-extractor-ORM/tree/main](https://huggingface.co/spaces/abhicodes/text-extractor-ORM/tree/main)_
 
 It consists of 2 parts:
 
