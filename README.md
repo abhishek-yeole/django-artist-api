@@ -2,8 +2,8 @@
 
 ## ML Project is hosted on Hugging Face spaces
 
-Link - _[https://abhicodes-text-extractor-orm.hf.space](https://abhicodes-text-extractor-orm.hf.space)_
-Video - _[https://drive.google.com/file/d/1NFTm9hqnpjtzPY_2SOOMViWQA3YIdQPm/view?usp=sharing](https://drive.google.com/file/d/1NFTm9hqnpjtzPY_2SOOMViWQA3YIdQPm/view?usp=sharing)_
+- Link - _[https://abhicodes-text-extractor-orm.hf.space](https://abhicodes-text-extractor-orm.hf.space)_
+- Video - _[https://drive.google.com/file/d/1NFTm9hqnpjtzPY_2SOOMViWQA3YIdQPm/view?usp=sharing](https://drive.google.com/file/d/1NFTm9hqnpjtzPY_2SOOMViWQA3YIdQPm/view?usp=sharing)_
 
 It consists of 2 parts:
 
