@@ -24,3 +24,4 @@ It consists of 2 parts:
 2. Setup virtual environment in the Django Artist API directory.
 3. Activate the virtual environment.
 4. Run the Django server using `python manage.py runserver` command in terminal.
+5. Django Pre-builts.
